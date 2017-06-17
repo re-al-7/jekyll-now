@@ -5,11 +5,11 @@ title: Exportar tabla con JQuery
 
 ¿Quién nunca ha tenido la necesidad de exportar un reporte tabulado a MS Excel?
 
+![_config.yml]({{ site.baseurl }}/images/exportar-tabla-con-jquery.png)
+
 En la red podemos encontrar muchas alternativas para lograr éste objetivo: librerías para PHP, módulos para .Net , etc. 
 
 Sin embargo, una solución para cualquier plataforma de desarrollo Web viene de la mano de jQuery. Gracias a un plugin que permite copiar el contenido de una tabla a partir de su ID.
-
-![_config.yml]({{ site.baseurl }}/images/exportar-tabla-con-jquery.png)
 
 Para acceder a éste plugin, podemos descargar los archivos necesarios desde [aqui](http://kayalshri.github.io/tableExport.jquery.plugin/).
 
