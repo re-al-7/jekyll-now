@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Exportar tabla con JQuery
 ---
 
 ¿Quién nunca ha tenido la necesidad de exportar un reporte tabulado a MS Excel?
