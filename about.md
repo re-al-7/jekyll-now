@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Cjomo es!!
 
-### More Information
+### Sobre mi
 
-A place to include any other types of information that you'd like to include about yourself.
+Soy un desarrollador de aplicaciones que ha empezado con QBasic desde muy joven, y que luego he adquirido bastante experiencia en desarrollo con tecnologías .Net.
 
-### Contact me
+Conozco sobre Bases de Datos Ms SQLServer, PostgreSQL, ORACLE, SQLite y un poco de Firebird.
 
-[email@domain.com](mailto:email@domain.com)
+Actualmente estoy empezando a adentrarme en el mundo de PHP, jQuery, Angular y ramas afines.
+
+
+Éste es mi es espacio donde pretendo compartir lo que voy aprendiendo
+
+### Escríbeme
+
+[7.re.al.7@gmail.com](mailto:7.re.al.7@gmail.com)
