@@ -12,7 +12,7 @@ Para facilitar la tarea de crear reportes o documentos en formato XLS o XLSX, se
 
 Lo primero que tenemos que hacer es instalar el paquete Nuget en nuestro proyecto:
 
-~~~nuget
+~~~
 PM> Install-Package ClosedXML
 ~~~
 
