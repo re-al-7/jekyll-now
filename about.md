@@ -37,8 +37,12 @@ Actualmente estoy empezando a adentrarme en el mundo de PHP, jQuery, Angular y r
 
 #### Experiencia Laboral
 
-| Septiembre 2007  | **AnswerIT Consulting Group**
- * Pasantía llevada a cabo en AnswerIT Consulting Group, en el área de Desarrollo y Soporte para un Sistema de Planillas realizado en PowerBuilder    |
+| Septiembre 2007  | **AnswerIT Consulting Group**    |
+|                  |  * Pasantía llevada a cabo en AnswerIT Consulting Group, en el área de Desarrollo y Soporte para un Sistema de Planillas realizado en PowerBuilder    |
+|                  |                  |
+| Febrero 2007 - Noviembre 2007  | **Consultoría Independiente**    |
+|                  |  * Desarrollo de un Sistema Contable y de Presupuestos para la "Resp:. Log:. Renacimiento Nº 32". Sistema presentado en ASP 3.0 y con Base de Datos en Access 2003    |
+|                  |                  |
 
 ### Escríbeme
 
