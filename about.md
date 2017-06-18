@@ -6,8 +6,6 @@ permalink: /about/
 
 Cjomo es!!
 
-### Sobre mi
-
 Soy un desarrollador de aplicaciones que ha empezado con QBasic desde muy joven, y que luego he adquirido bastante experiencia en desarrollo con tecnologías .Net.
 
 Conozco sobre Bases de Datos Ms SQLServer, PostgreSQL, ORACLE, SQLite y un poco de Firebird.
