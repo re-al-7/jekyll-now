@@ -2,6 +2,8 @@
 layout: post
 title: Integrando Trello + Bitbucket + AppHarbor
 author: R. ALonzo Vera
+date:   2015-02-24
+tags: [integracion continua]
 ---
 
 En éste tutorial se va a mostrar cómo pueden enlazarse tres servicios para lograr una infraestructura que permita automatizar varias tareas en la cadena de desarrollo de software.

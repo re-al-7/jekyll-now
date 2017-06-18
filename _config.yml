@@ -2,7 +2,7 @@
 title: Re-Al Dev World
 description: 'Un blog de R. Alonzo Vera A.'
 url: 'https://re-al-7.github.io/'
-baseurl: ''
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 

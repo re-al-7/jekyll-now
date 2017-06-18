@@ -3,8 +3,7 @@ layout: post
 title: Exportar tabla con JQuery
 author: R. ALonzo Vera
 date:   2012-11-12
-categories: [web]
-tags: [jquery]
+tags: [web]
 ---
 
 ¿Quién nunca ha tenido la necesidad de exportar un reporte tabulado a MS Excel?
