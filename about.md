@@ -14,8 +14,13 @@ Conozco sobre Bases de Datos Ms SQLServer, PostgreSQL, ORACLE, SQLite y un poco 
 
 Actualmente estoy empezando a adentrarme en el mundo de PHP, jQuery, Angular y ramas afines.
 
-
 Éste es mi es espacio donde pretendo compartir lo que voy aprendiendo
+
+### Mi formación y Experiencia
+
+#### Cursos, Seminarios y Talleres
+
+| Diciembre 2004  | "Ensamblaje y Mantenimiento de Computadoras" en el "Instituto Boliviano de Aprendizaje Don Bosco"   |
 
 ### Escríbeme
 
