@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Generar colores hexadecimales aleatorios con Postgres
+author: R. ALonzo Vera
 ---
 
 Hoy me he visto en la necesidad de obtener Varias fechas de una tabla en PostgreSql y mostrar cada una con un color diferente en un Sistema Web.

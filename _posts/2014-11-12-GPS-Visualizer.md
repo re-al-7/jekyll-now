@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GPS Visualizer
+author: R. ALonzo Vera
 ---
 
 Ahora les voy a hablar de un [servicio](http://www.gpsvisualizer.com/) GRATUITO por demás interesante. GPSVisualizer nos permite realizar conversiones entre diversos formatos de archivos de mapas (GPS, GPX, KML, KMZ, etc).
