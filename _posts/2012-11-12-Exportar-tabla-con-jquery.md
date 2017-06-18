@@ -8,7 +8,7 @@ tags: [web]
 
 ¿Quién nunca ha tenido la necesidad de exportar un reporte tabulado a MS Excel?
 
-![_config.yml]({{ site.baseurl }}images/exportar-tabla-con-jquery.png)
+![_config.yml]({{ site.baseurl }}/images/exportar-tabla-con-jquery.png)
 
 En la red podemos encontrar muchas alternativas para lograr éste objetivo: librerías para PHP, módulos para .Net , etc. 
 
