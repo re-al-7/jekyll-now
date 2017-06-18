@@ -101,7 +101,3 @@ ___
 |                  |   * Plataforma aplicada a los siguientes proyectos: IPP (Indice de Precios Productor), IPM (Indice de Precios al por Mayor), ICC (Indice de Costos a la Construccion), EH (Encuesta anual de Hogares), ECE (Prueba Piloto de la Encuesta Continua de Empleo), EDSA (Encuesta de Demografía y Salud)                  |
 | Septiembre 2016 |  * Participación en el proceso de analisis y calculo del Indice de Precios Productor IPP      |
 |                  |                  |
-
-### Escríbeme
-
-[7.re.al.7@gmail.com](mailto:7.re.al.7@gmail.com)
