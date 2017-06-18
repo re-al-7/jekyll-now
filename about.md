@@ -21,7 +21,9 @@ Actualmente estoy empezando a adentrarme en el mundo de PHP, jQuery, Angular y r
 #### Cursos, Seminarios y Talleres
 
 | Diciembre 2004  | "Ensamblaje y Mantenimiento de Computadoras" en el "Instituto Boliviano de Aprendizaje Don Bosco"   |
+| ------------- | ------------- |
 | Agosto 2005  | Asistencia al Ciclo de Conferencias sobre "El Tercer Manifiesto" y "Tecnología WAP" realizadas en la Universidad Católica Boliviana "San Pablo"    |
+| ------------- | ------------- |
 | Septiembre 2005  | "Visual Basic.Net" en el "Laboratorio Superior de Informática "LASIN" dependiente de la Facultad de Ciencias Puras y Naturales de la "Universidad Mayor de San Andrés"    |
 | Octubre 2005  | "Programación Multimedia con Flash MX y Actionscript" en el "Centro de Estudios y Servicios BOLIVIA" dependiente de la Facultad de Ingeniería de la "Universidad Mayor de San Andrés"    |
 | Octubre 2005  | Participación en la Tercera Feria Universitaria de Ciencia yTecnología "FUNCTEC 2005 - Ing. Roberto Carranza Estívariz con el tema "Sistema para la Resolución (Aproximada) de Integrales Definidas" realizado en Visual Basic.Net    |
