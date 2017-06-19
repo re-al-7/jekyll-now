@@ -11,8 +11,8 @@ Ahora mostraré como puedes hacer que tu proyecto WebForms ASP.Net genere cada v
 ### Para empezar
 Para ello utilizaremos dos recursos:
 
-    * [VsXMd](https://github.com/lijunle) de [lijunle](https://github.com/lijunle)
-    * [CommonMark.Net](https://github.com/Knagis/CommonMark.NET) de [Knagis](https://github.com/Knagis)
+ * [VsXMd](https://github.com/lijunle) de [lijunle](https://github.com/lijunle)
+ * [CommonMark.Net](https://github.com/Knagis/CommonMark.NET) de [Knagis](https://github.com/Knagis)
 
 Estos dos proyectos los podemos obtener a traves de su respectivo repositorio en GitHub o a traves de Nuget.
 
