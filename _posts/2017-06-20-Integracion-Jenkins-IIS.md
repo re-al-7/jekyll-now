@@ -86,7 +86,7 @@ Ahora, volviendo a la configuración de la Tarea en Jenkins, pasamos a la parte 
 
 En el bloque de **Ejecutar** podemos añadir varias acciones:
 
-## 1. Restaurar paquetes Nuget de la Solucion
+#### 1. Restaurar paquetes Nuget de la Solucion
 
 Antes de empezar a realizar el despliegue de nuestros proyectos, es necesario restaurar los paquetes Nuget utilizados en la solución.
 Si bien existen plugins para Jenkins que nos ayudan con esto, es mejor realizar la tarea a través de un paso de tipo **"Ejecutar un comando de Windows"**
@@ -97,7 +97,7 @@ Obviamente, esto implica que tenemos que tener instalado el ejecutable **"Nuget.
 "C:\Program Files\Nuget\"nuget.exe restore ARCHIVO_DE_SOLUCION.sln
 ~~~
 
-## 2. Ejecutar el MsBuild de Toda la solución
+#### 2. Ejecutar el MsBuild de Toda la solución
 
 Para compilar toda la solución, agregamos un nuevo paso y elegimos la opcion **"Build a VisualStudio project or solution using MsBuild"**. Despues, configuramos el paso de la siguiente forma:
 
@@ -106,7 +106,7 @@ Para compilar toda la solución, agregamos un nuevo paso y elegimos la opcion **
 En el campo "MSBuild File" se debe especificar el archivo que representa la solución (.sln).
 
 
-## 3. Publicar el Proyecto principal
+#### 3. Publicar el Proyecto principal
 
 Para este paso agregamos una opción **"Build a VisualStudio project or solution using MsBuild"** y especificamos el Path al proyecto principal de nuestra solucion:
 
@@ -117,7 +117,8 @@ Ademas ponemos el siguiente argumento:
 /T:Build;Package /p:Configuration=DEBUG /p:OutputPath="C:\JenkinsBuilds\PROYECTO" /p:DeployIisAppPath="/Default Web Site/NOMBRE_SITIO" /p:VisualStudioVersion=14.0
 ~~~
 
-## 4. Desplegar al Servidor IIS
+
+#### 4. Desplegar al Servidor IIS
 
 Por ultimo, agregamos otro paso de tipo **"Ejecutar un comando de Windows"** y especificamos el siguiente comando:
 
@@ -128,4 +129,8 @@ xcopy "C:\JenkinsBuilds\PROYECTO\_PublishedWebsites\PUBLICACION" /O /X /E /H /K 
 Esta instrucción copiará los archivos recurrentemente, pero sólo aquellos que han cambiado recientemente
 
 
-## 5. 
+#### 5. Compilar AHORA y ver la tendencia de tiempo de ejecución
+
+Una vez esté todo configurado, podemos ordenar a **Jenkins** realizar la compilación y verificar las estadísticas:
+
+![_config.yml]({{ site.baseurl }}/images/2017-06-20-Integracion-Jenkins-IIS-11.png)
