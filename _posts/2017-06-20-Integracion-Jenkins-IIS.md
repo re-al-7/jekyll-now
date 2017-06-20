@@ -114,7 +114,7 @@ Para este paso agregamos una opción **"Build a VisualStudio project or solution
 
 Ademas ponemos el siguiente argumento:
 ~~~
-/T:Build;Package /p:Configuration=DEBUG /p:OutputPath="C:\JenkinsBuilds\PROYECTO" /p:DeployIisAppPath="/Default Web Site/NOMBRE_SITIO" /p:VisualStudioVersion=14.0
+/T:Build;Package /p:Configuration=DEBUG /p:OutputPath="C:\JenkinsBuilds\NOMBRE_PROYECTO_PRINCIPAL" /p:DeployIisAppPath="/Default Web Site/NOMBRE_SITIO" /p:VisualStudioVersion=14.0
 ~~~
 
 
@@ -123,7 +123,7 @@ Ademas ponemos el siguiente argumento:
 Por ultimo, agregamos otro paso de tipo **"Ejecutar un comando de Windows"** y especificamos el siguiente comando:
 
 ~~~
-xcopy "C:\JenkinsBuilds\PROYECTO\_PublishedWebsites\PUBLICACION" /O /X /E /H /K /Y /d "C:\inetpub\wwwroot\NOMBRE_SITIO\"
+xcopy "C:\JenkinsBuilds\NOMBRE_SOLUCION\_PublishedWebsites\NOMBRE_PROYECTO_PRINCIPAL" /O /X /E /H /K /Y /d "C:\inetpub\wwwroot\NOMBRE_SITIO_EN_IIS\"
 ~~~
 
 Esta instrucción copiará los archivos recurrentemente, pero sólo aquellos que han cambiado recientemente
