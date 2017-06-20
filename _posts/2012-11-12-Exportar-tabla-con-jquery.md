@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exportar tabla con JQuery
-author: R. ALonzo Vera
+author: R. Alonzo Vera
 date:   2012-11-12
 tags: [web]
 ---
