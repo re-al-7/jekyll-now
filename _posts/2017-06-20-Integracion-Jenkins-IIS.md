@@ -3,7 +3,7 @@ layout: post
 title: Integración Jenkins con MSBuild e IIS
 author: R. ALonzo Vera
 date:   2017-06-20
-tags: [csharp]
+tags: [integracion continua]
 ---
 
 Estos dias me he planteado realizar la implementacion de CI (Integración Continua) en mis proyectos. Para ello he acudido a Jenkins.
