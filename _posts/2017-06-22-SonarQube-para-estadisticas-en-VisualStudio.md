@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 2017-06-22-SonarQube-para-estadisticas-en-VisualStudio
+title: SonarQube para metricas del Codigo en VisualStudio
 author: R. Alonzo Vera
 date:   2017-06-22
-tags: [documentacion]
+tags: [integracion continua]
 ---
 
 Ultimamente he estado viendo varias herramientas para ver las métricas y estadísticas del codigo fuente de algun proyecto; pero de entre todas estas herramientas destaca SonarQube, por una sencilla razon: es *open source*.
