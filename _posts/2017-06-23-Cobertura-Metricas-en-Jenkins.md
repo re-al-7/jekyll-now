@@ -36,7 +36,9 @@ Buscamos el bloque perteneciente al plugin y lo configuramos tal cual se muestra
 
 ![_config.yml]({{ site.baseurl }}/images/2017-06-23-Cobertura-Metricas-en-Jenkins-01.png)
 
-Ya tenemos listo los plugins y las herramientas necesarias:
+Ya tenemos listo los plugins y las herramientas necesarias. 
+
+***NOTA: En mi caso, como no tengo instalado VisualStudio en la maquina de Deployment, instale _VisualStudio Code Metrics_ pero tambien tube que COPIAR todo el contenido de la carpeta de destino "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Team Tools\Static Analysis Tools\FxCop" de mi maquina de desarrollo al servidor de Deployment ***
 
 
 ### Configurando el Proyecto y los reportes
@@ -79,7 +81,7 @@ Finalmente agregamos un paso de Tipo **VS Code Metrics PowerTool exec**. Alli el
 
 Ahora añadimos pasos al bloque que se ejecuta DESPUES del bloque *Build*:
 
-Primero añadimos un paso de Tipo **Publicar Informes de "Cobertura"** y especificamos el nombre del archivo XML de origen
+Primero añadimos un paso de Tipo **Publicar Informes de "Cobertura"** y especificamos el nombre del archivo XML de origen. Aqui es muy importante respectar las Mayusculas y minusculas, porque si no, Jenkins no encuentra el archivo.
 
 ~~~
 {NOMBRE_DEL_PROYECTO_JENKINS}Cobertura.xml
@@ -88,9 +90,16 @@ Primero añadimos un paso de Tipo **Publicar Informes de "Cobertura"** y especif
 ![_config.yml]({{ site.baseurl }}/images/2017-06-23-Cobertura-Metricas-en-Jenkins-07.png)
 
 
-Ahora añadimos la generación de un reporte HTML basado en el resultado de OpenCover:
+Ahora añadimos la generación de un reporte HTML basado en el resultado de OpenCover, con los siguientes parametros:
+
+~~~
+CodeCoverageHTML   # HTML directorio
+index.htm          # Pagina de inicio del Reporte
+Code Coverage      # Titulo del Reporte
+~~~
 
 ![_config.yml]({{ site.baseurl }}/images/2017-06-23-Cobertura-Metricas-en-Jenkins-08.png)
+
 
 
 Y finalmente agregamos el reporte de Metricas de Visual Studio:
