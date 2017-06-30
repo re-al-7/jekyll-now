@@ -4,7 +4,7 @@ description: 'Un blog de R. Alonzo Vera A.'
 url: 'https://re-al-7.github.io/'
 baseurl: '/re-al-7.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'real-dev-world'
 
 author:
   name: 'Alonzo Vera A.'
