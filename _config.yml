@@ -3,7 +3,7 @@ title: Re-Al Dev World
 description: 'Un blog de R. Alonzo Vera A.'
 url: 'https://re-al-7.github.io/'
 baseurl: '/re-al-7.github.io/'
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-101899002-1'
 disqus_shortname: 'real-dev-world'
 
 author:
