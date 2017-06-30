@@ -3,6 +3,7 @@ layout: post
 title: Cobertura y Metricas en Jenkins para proyectos .Net
 author: R. Alonzo Vera
 date:   2017-06-23
+comments: true
 tags: [integracion continua]
 ---
 

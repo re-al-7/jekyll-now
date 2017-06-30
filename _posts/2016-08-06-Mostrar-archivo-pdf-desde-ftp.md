@@ -3,6 +3,7 @@ layout: post
 title: Mostrar archivo PDF alojado en un servidor FTP
 author: R. ALonzo Vera
 date:   2016-08-06
+comments: true
 tags: [csharp]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: ClosedXML y el uso de plantillas
 author: R. ALonzo Vera
 date:   2016-04-26
+comments: true
 tags: [csharp]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: Integrando Trello + Bitbucket + AppHarbor
 author: R. ALonzo Vera
 date:   2015-02-24
+comments: true
 tags: [integracion continua]
 ---
 

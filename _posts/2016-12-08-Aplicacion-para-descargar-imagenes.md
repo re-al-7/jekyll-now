@@ -3,6 +3,7 @@ layout: post
 title: Aplicacion para descargar imagenes de una página web
 author: R. ALonzo Vera
 date:   2016-12-08
+comments: true
 tags: [csharp]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: OpenLDAP con CSharp
 author: R. ALonzo Vera
 date:   2017-01-04
+comments: true
 tags: [csharp]
 ---
 

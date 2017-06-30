@@ -3,6 +3,7 @@ layout: post
 title: SonarQube para metricas del Codigo en VisualStudio
 author: R. Alonzo Vera
 date:   2017-06-22
+comments: true
 tags: [integracion continua]
 ---
 

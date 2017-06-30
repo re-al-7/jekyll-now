@@ -3,6 +3,7 @@ layout: post
 title: Documentar tu proyecto ASP.Net y mostrarlo como un formulario mas
 author: R. Alonzo Vera
 date:   2017-06-17
+comments: true
 tags: [documentacion]
 ---
 

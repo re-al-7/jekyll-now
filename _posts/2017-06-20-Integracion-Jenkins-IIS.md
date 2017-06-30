@@ -3,6 +3,7 @@ layout: post
 title: Integración Jenkins con MSBuild e IIS
 author: R. ALonzo Vera
 date:   2017-06-20
+comments: true
 tags: [integracion continua]
 ---
 

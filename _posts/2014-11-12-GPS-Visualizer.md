@@ -3,6 +3,7 @@ layout: post
 title: GPS Visualizer
 author: R. ALonzo Vera
 date:   2014-11-12
+comments: true
 tags: [herramientas]
 ---
 

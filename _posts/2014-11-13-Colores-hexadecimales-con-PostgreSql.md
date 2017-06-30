@@ -3,6 +3,7 @@ layout: post
 title: Generar colores hexadecimales aleatorios con Postgres
 author: R. ALonzo Vera
 date:   2014-11-13
+comments: true
 tags: [sql]
 ---
 
