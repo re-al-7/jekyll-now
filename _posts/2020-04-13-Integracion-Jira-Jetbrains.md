@@ -2,7 +2,7 @@
 layout: post
 title: Integrar JIRA con los IDEs de Jetbrains
 author: R. Alonzo Vera
-date:   2018-01-05
+date:   2020-04-13
 comments: true
 tags: [desarrollo]
 ---
