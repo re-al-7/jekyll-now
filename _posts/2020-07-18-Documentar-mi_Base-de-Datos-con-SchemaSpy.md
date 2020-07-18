@@ -13,11 +13,11 @@ Recientemente conoci la herramienta SchemaSpy para documentar Bases de Datos, ge
 
 ![_config.yml]({{ site.baseurl }}/images/2020-07-18-Documentar-mi_Base-de-Datos-con-SchemaSpy.png)
 
-Esta entrada servirá como introducción para ver lo que podemos hacer con ésta herramienta y su uso en nuestros proyectos. Lo primero, descargar e instalar SchemaSpy, para ellos seguimos los pasos descritos en su [documentación oficial](https://schemaspy.readthedocs.io/en/latest/installation.html).
+Esta entrada servirá como introducción para ver lo que podemos hacer con [SchemaSpy](http://schemaspy.org/) y su uso en nuestros proyectos. Lo primero, descargar e instalar SchemaSpy, para ellos seguimos los pasos descritos en su [documentación oficial](https://schemaspy.readthedocs.io/en/latest/installation.html).
 
-SchemaSpy funciona con la mayoría de los motores de Base de Datos, como ser Oracle, MS-SQL, DB2, PostgreSQL, MySQL, etc; y se conecta a ellos a través de JDBC.
+[SchemaSpy](http://schemaspy.org/) funciona con la mayoría de los motores de Base de Datos, como ser Oracle, MS-SQL, DB2, PostgreSQL, MySQL, etc; y se conecta a ellos a través de JDBC.
 
-La forma más simple de ejecutar SchemaSpy es a través de linea de comandos, pasando como parámetros los datos para conexión a la Base de Datos que queremos documentar:
+La forma más simple de ejecutar [SchemaSpy](http://schemaspy.org/) es a través de linea de comandos, pasando como parámetros los datos para conexión a la Base de Datos que queremos documentar:
 
 ~~~bash
 java -jar schemaspy.jar -t mssql05 -dp C:/sqljdbc4-3.0.jar -db NOMBRE_BD -host SERVIDOR -port 1433 -s dbo -u USUARIO_BD -p PASSWORD_BD -o DIRECTORIO_DE_SALIDA
