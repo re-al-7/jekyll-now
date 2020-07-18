@@ -2,10 +2,11 @@
 layout: post
 title: Documentar mi Base de Datos con SchemaSpy
 author: R. Alonzo Vera
-date:   2020-04-13
+date:   2020-07-18
 comments: true
-tags: [desarrollo]
+tags: [base de datos, documentacion]
 ---
+
 
 Recientemente vi un [POST](https://enmilocalfunciona.io/y-si-documentamos-la-base-de-datos-schemaspy-al-rescate/) sobre documentar Bases de Datos utilizando la herramienta [SchemaSpy](http://schemaspy.org/), generando documentación visual muy entendible.
 
