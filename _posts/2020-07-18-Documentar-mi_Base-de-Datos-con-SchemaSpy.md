@@ -8,10 +8,10 @@ tags: [base de datos, documentacion]
 ---
 
 
-Recientemente vi un [POST](https://enmilocalfunciona.io/y-si-documentamos-la-base-de-datos-schemaspy-al-rescate/) sobre documentar Bases de Datos utilizando la herramienta [SchemaSpy](http://schemaspy.org/), generando documentación visual muy entendible.
+Recientemente conoci la herramienta SchemaSpy para documentar Bases de Datos, generando documentación visual, detallada, pero sobretodo, muy entendible.
 
 
-![_config.yml]({{ site.baseurl }}/images/2020-04-13-Integracion-Jira-Jetbrains.png)
+![_config.yml]({{ site.baseurl }}/images/2020-07-18-Documentar-mi_Base-de-Datos-con-SchemaSpy.png)
 
 Esta entrada servirá como introducción para ver lo que podemos hacer con ésta herramienta y su uso en nuestros proyectos. Lo primero, descargar e instalar SchemaSpy, para ellos seguimos los pasos descritos en su [documentación oficial](https://schemaspy.readthedocs.io/en/latest/installation.html).
 
