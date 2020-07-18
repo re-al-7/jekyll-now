@@ -27,7 +27,7 @@ En el cuadro de información general se debe colocar la siguiente información:
 
  - *Email:* Es la dirección de nuestro correo electrónico de usuario de JIRA
 
- - *API Token:* Es el token de acceso provisto por Jira. Este Token se puede obtener desde [https://id.atlassian.com/manage/api-tokens](https://id.atlassian.com/manage/api-tokens.).
+ - *API Token:* Es el token de acceso provisto por Jira. Este Token se puede obtener desde [https://id.atlassian.com/manage-profile/security/api-tokens](https://id.atlassian.com/manage-profile/security/api-tokens).
 
  - *Search:* Es el filtro que se utilizará para mostrar los Issues en el pane de Tareas _Tasks_. El filtro recomendado es: project = "NOMBRE_PROYECTO" and assignee = currentUser() and status != Done order by updated
 
