@@ -7,8 +7,7 @@ comments: true
 tags: [test]
 ---
 
-
-En el anterior post usabamos `Selenium` para grabar la funcionalidad de una pag;ína web y luego automatizar las pruebas. En esta ocasión vamos a usar `JMeter Recording Controller` para grabar las peticiones HTTP que se realizan a un sitio y con ello simular la navegación de un usuario.
+En el anterior post usabamos **Selenium** para grabar la funcionalidad de una pag;ína web y luego automatizar las pruebas. En esta ocasión vamos a usar **JMeter Recording Controller** para grabar las peticiones HTTP que se realizan a un sitio y con ello simular la navegación de un usuario.
 
 
 ![_config.yml]({{ site.baseurl }}/images/2021-06-29-JMeter-Recording-Controller-Phase-01.png)
